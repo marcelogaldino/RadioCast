@@ -1,0 +1,13 @@
+#inputFrequency {
+    text-align: center;
+    border: 1px solid lightgray;
+    width: 200px;
+}
+
+#divPodcasts img {
+    width: 300px;
+}
+
+#divPodcasts h2 {
+    text-transform: uppercase;
+}
