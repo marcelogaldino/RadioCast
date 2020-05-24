@@ -8,10 +8,10 @@ RadioCast | Use radio frequency in order to find the bests podcasts
 <br>
 <br>
 
-<img src="https://img.shields.io/github/stars/marcelogaldino/todoList"/>
-<img src="https://img.shields.io/github/forks/marcelogaldino/todoList"/>
-<img src="https://img.shields.io/github/issues/marcelogaldino/todoList"/>
-<img src="https://img.shields.io/github/license/marcelogaldino/todoList"/>
+<img src="https://img.shields.io/github/stars/marcelogaldino/RadioCast"/>
+<img src="https://img.shields.io/github/forks/marcelogaldino/RadioCast"/>
+<img src="https://img.shields.io/github/issues/marcelogaldino/RadioCast"/>
+<img src="https://img.shields.io/github/license/marcelogaldino/RadioCast"/>
 
 <br>
 
